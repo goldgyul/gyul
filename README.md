@@ -1,5 +1,5 @@
 <div align="middle">
-    <img src="https://github.com/suites/simple-resume/blob/master/static/simple-resume.png">
+    <img src="https://user-images.githubusercontent.com/108508273/177024303-8001cf09-5bcd-4999-969d-60b82995a163.jpeg">
 </div>
 
 <h1 align="center">🐤️ Simple-resume</h1>
