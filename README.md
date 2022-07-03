@@ -4,8 +4,9 @@
 
 <h1 align="center"> 🍊 gyuri's jeju travel 🍊</h1>
 <p align="center">
-  	<a href="https://github.com/suites/simple-resume/LICENSE">
-    	<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Simple-resume is released under the MIT license." />
+  	<a href="https://www.instagram.com/gg.__.yul//instagram">
+    	<img src="https://user-images.githubusercontent.com/108508273/177026130-2be6d81f-d24c-45e2-b6ef-5f6a42d8fb27.png" 
+	alt="Simple-resume is released under the instagram license." />
   	</a>
 	<a href="https://github.com/suites/simple-resume"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"></a>
 	<a href="https://github.com/suites/simple-resume"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
