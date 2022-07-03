@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/108508273/177024303-8001cf09-5bcd-4999-969d-60b82995a163.jpeg">
 </div>
 
-<h1 align="center">🐤️ Simple-resume</h1>
+<h1 align="center"> 🍊 gyuri's jeju travel 🍊</h1>
 <p align="center">
   	<a href="https://github.com/suites/simple-resume/LICENSE">
     	<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Simple-resume is released under the MIT license." />
