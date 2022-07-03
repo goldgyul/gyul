@@ -4,7 +4,7 @@
 
 <h1 align="center"> 🍊 gyuri's jeju travel 🍊</h1>
 <p align="center">
-  	<a href="https://www.instagram.com/gg.__.yul//instagram">
+  	<a href="https://www.instagram.com/gg.__.yul/">
     	<img src="https://user-images.githubusercontent.com/108508273/177026130-2be6d81f-d24c-45e2-b6ef-5f6a42d8fb27.png" 
 	alt="Simple-resume is released under the instagram license." />
   	</a>
