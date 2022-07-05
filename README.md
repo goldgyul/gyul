@@ -25,8 +25,8 @@
 
 
 ### Overview
- name : Lim Gyuri 
- photo : 💕
+ name : Lim Gyuri <br>
+ photo : 💕 <br>
  introduction : Hello! I'm Gyuri Lim. I enjoy eating and playing with my friends. 
 
 
